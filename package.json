@@ -44,7 +44,7 @@
     "eject": "react-scripts eject",
     "serve-4bytes": "serve -p 3001 -C -c serve-4bytes.json",
     "serve-trustwallet-assets": "serve -p 3002 -C -c serve-trustwallet-assets.json",
-    "serve": "serve -s build"
+    "serve": "serve -p 3000 -s build"
   },
   "eslintConfig": {
     "extends": [
