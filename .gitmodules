@@ -1,6 +1,6 @@
 [submodule "4bytes"]
 	path = 4bytes
 	url = https://github.com/ethereum-lists/4bytes.git
-[submodule "trustwallet"]
-	path = trustwallet
-	url = https://github.com/trustwallet/assets.git
+; [submodule "trustwallet"]
+; 	path = trustwallet
+; 	url = https://github.com/trustwallet/assets.git
